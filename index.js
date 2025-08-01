@@ -26,7 +26,7 @@ const PORT = process.env.PORT || 3000;
             <head>
                 <meta charset="UTF-8">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                <title>Lexwata API</title>
+                <title>Lexwata API!</title>
                 <link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
                 <style>
                     body {
