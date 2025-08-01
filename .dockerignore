@@ -1,0 +1,21 @@
+# Node.js dependencies
+node_modules
+npm-debug.log
+yarn.lock
+package-lock.json
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Configuração do ambiente
+.env
+
+# Logs e arquivos temporários
+logs
+*.log
+tmp/
+*.tmp
+
+# Diretórios do sistema
+.DS_Store
+.vscode
+.idea
